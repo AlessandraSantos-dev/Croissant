@@ -11,8 +11,10 @@ h2 {
   color: rgb(158, 89, 40);
 }
 footer {
-  display: block;
-  margin: 0 auto;
+  text-align: center;
+}
+footer a {
+  margin: 0 12px;
 }
 li {
   color: rgb(116, 43, 43);
